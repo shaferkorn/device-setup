@@ -7,3 +7,5 @@ For Windows Setup:
 2. .\windows\w_sshkey_generate.ps1
 3. .\windows\w_wsl2_activate.ps1 (ADMIN POWERSHELL)  
 4. .\windows\w_wsl2_distro_install.txt 
+
+5. .\windows\w_hyperv_activate.ps1 (ADMIN POWERSHELL)
