@@ -1,0 +1,3 @@
+wsl --list --online
+
+wsl --install $distro_name
